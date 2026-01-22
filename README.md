@@ -72,10 +72,10 @@ The current implementation supports navigation to **four predefined tables**, ea
 ---
 
 ## Author
-**Dhruthi Sridhar**  
-**Mehnaaz Jaffar**
-**Keerthi R**
-**Monisha D**
+-**Dhruthi Sridhar**  
+-Mehnaaz Jaffar
+-Keerthi R
+-Monisha D
 ---
 
 ## License
