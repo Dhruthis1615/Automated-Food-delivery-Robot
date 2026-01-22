@@ -2,6 +2,7 @@
 
 ## Overview
 The **Automated Food Delivery Robot** is an embedded systems–based autonomous robot designed primarily for **college canteens and small hotels**. The robot automates short-distance food delivery by navigating to a selected table number, reducing manual effort and improving service efficiency.
+![Automated Food Delivery Robot](images/robot.jpg)
 
 The current version of the robot supports delivery to **four predefined tables**, selected using a keypad interface. The selected table number is displayed on an OLED screen for clear visual confirmation.
 
